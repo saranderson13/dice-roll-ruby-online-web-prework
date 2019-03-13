@@ -5,7 +5,6 @@ require 'pry'
 
 def roll
   rand(6)
-  binding.pry
 end
 
 roll
