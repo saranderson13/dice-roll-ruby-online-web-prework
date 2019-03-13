@@ -4,7 +4,7 @@
 require 'pry'
 
 def roll
-  print rand(6)
+  num = rand(6)
   binding.pry
 end
 
