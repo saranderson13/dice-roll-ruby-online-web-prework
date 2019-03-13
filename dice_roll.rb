@@ -4,7 +4,7 @@
 require 'pry'
 
 def roll
-  rand(6)
+  rand(7)
 end
 
 roll
